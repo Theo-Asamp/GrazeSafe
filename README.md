@@ -39,8 +39,8 @@ Users are assumed to be non-technical and value clarity and explainability.
 ### Frontend
 - HTML, CSS, JavaScript
 - Leaflet.js (interactive mapping)*
-- OpenStreetMap tiles
-- GeoJSON for pasture/farm data
+- OpenStreetMap tiles*
+- GeoJSON for pasture/farm data*
 
 ### Backend / Data
 - Lightweight Node.js or serverless functions
