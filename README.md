@@ -38,7 +38,7 @@ Users are assumed to be non-technical and value clarity and explainability.
 
 ### Frontend
 - HTML, CSS, JavaScript
-- Leaflet.js (interactive mapping)
+- Leaflet.js (interactive mapping)*
 - OpenStreetMap tiles
 - GeoJSON for pasture/farm data
 
@@ -49,9 +49,7 @@ Users are assumed to be non-technical and value clarity and explainability.
 
 ### Tooling & Deployment
 - GitHub (version control)
-- Netlify / GitHub Pages (deployment)
+- Netlify / GitHub Pages (deployment)*
 
----
 
-## Frontend Folder Structure
 
