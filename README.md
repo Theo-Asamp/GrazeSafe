@@ -1,7 +1,7 @@
-# GrazeSafe  
+# Elanco prototype
 ### Pasture & Parasite Risk Mapping Prototype
 
-GrazeSafe is a client-driven, web-based proof-of-technology developed as part of the  
+This web app a client-driven, web-based proof-of-technology developed as part of the  
 **Professional Software Projects** module at Sheffield Hallam University.
 
 The project explores how simple geospatial visualisation and public environmental data
